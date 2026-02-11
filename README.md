@@ -64,6 +64,23 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-
-
+![PROMPT EXP-1_page-0001](https://github.com/user-attachments/assets/565a6348-f803-442e-ac9a-ecda4cd30ca1)
+![PROMPT EXP-1_page-0002](https://github.com/user-attachments/assets/2cd39164-5b21-43b2-93b4-4cddc302030f)
+![PROMPT EXP-1_page-0003](https://github.com/user-attachments/assets/ef002848-250a-4914-a54c-ac64469b0aac)
+![PROMPT EXP-1_page-0004](https://github.com/user-attachments/assets/2d745a25-8c9e-41c5-9cf6-c77117d09f16)
+![PROMPT EXP-1_page-0005](https://github.com/user-attachments/assets/086a5b41-daad-48d5-9840-346a161280bb)
+![PROMPT EXP-1_page-0006](https://github.com/user-attachments/assets/fff5624f-b5cf-4170-933e-85b846478f1b)
+![PROMPT EXP-1_page-0007](https://github.com/user-attachments/assets/58db5349-4978-43bb-949b-44ac04f0e564)
+![PROMPT EXP-1_page-0008](https://github.com/user-attachments/assets/c1cdc996-ac65-4738-aaf6-fa798002befb)
+![PROMPT EXP-1_page-0009](https://github.com/user-attachments/assets/d68a9ce6-cc22-454e-8884-f499e668c524)
+![PROMPT EXP-1_page-0010](https://github.com/user-attachments/assets/8f9e64dd-b14a-445e-b67c-7f698f07cf95)
+![PROMPT EXP-1_page-0011](https://github.com/user-attachments/assets/dbafb844-9218-4835-be50-10e794e89303)
+![PROMPT EXP-1_page-0012](https://github.com/user-attachments/assets/4d62e481-a929-4fcc-9297-ea33bb6c2725)
+![PROMPT EXP-1_page-0013](https://github.com/user-attachments/assets/6b468ac3-5f06-47f0-bbbc-465da7b59eaa)
+![PROMPT EXP-1_page-0014](https://github.com/user-attachments/assets/a27eb48e-667d-4acd-8ec4-bdfeaef74894)
 Result:
+Thus a comprehensive report has been generated for the given topics.
+
+
+
+
